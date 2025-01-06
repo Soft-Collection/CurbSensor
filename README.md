@@ -9,7 +9,7 @@ Beeps when your car is getting close to the high curb
 |1 | [Buzzer](https://www.aliexpress.com/item/1005007143315059.html?spm=a2g0o.productlist.main.1.7771320frrjg1N&algo_pvid=16458d3a-960c-4fbd-a39b-2fd855358c0b&algo_exp_id=16458d3a-960c-4fbd-a39b-2fd855358c0b-0&pdp_npi=4%40dis%21ILS%2111.43%216.51%21%21%2122.44%2112.79%21%402140c1e917361992286995642eaaf5%2112000039561868485%21sea%21IL%21140732279%21X&curPageLogUid=1fZr8liDnLFY&utparam-url=scene%3Asearch%7Cquery_from%3A) | Active Buzzer 5V |
 
 ## Notes
-[IRremote Library](https://github.com/Arduino-IRremote/Arduino-IRremote) must be installed.
+[VL53L1X Library](https://github.com/adafruit/Adafruit_VL53L1X) must be installed.
 
 ## Connection Diagram
 ![Connection Diagram](Images/Connection%20Diagram.png)
